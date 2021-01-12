@@ -22,7 +22,7 @@ it means 2 plots, in 1st branch\ 2nd branch\ 3rd branch there is a subplot you g
 
 SB(data,'',???,9999) is to search whole tree, SB(data,'56',???,''the weight of 56'') is to search trees under '56' subplot
 
-a PC needs 10 min to calculate 4 branches such as Sayaka https://mrtop.top/mr/chara/#/2004/e/, but be impossible to calculate 6 branches such as Iroha https://mrtop.top/mr/chara/#/1001/e/ since the code is not efficient in sth, that is, it is not very smart. Run a dlc in it to merge branch 1 and , 2 and 5, 3 and 6 to reduce the wordload.
+a PC needs 10 min to calculate 4 branches such as Sayaka https://mrtop.top/mr/chara/#/2004/e/, but be impossible to calculate 6 branches such as Iroha https://mrtop.top/mr/chara/#/1001/e/ since the code is not efficient in sth, that is, it is not very smart. Run a dlc in it to merge branch 1 and 4, 2 and 5, 3 and 6 to reduce the wordload.
 
 2GB memory recommended 
 
